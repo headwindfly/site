@@ -1,6 +1,6 @@
 module github.com/hbstack/site
 
-go 1.21.3
+go 1.21.4
 
 replace github.com/hbstack/site/modules/common => ./modules/common
 
